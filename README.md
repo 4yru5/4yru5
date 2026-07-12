@@ -8,8 +8,6 @@ Security Researcher | CTF Player
 I enjoy exploring application security, vulnerability research, AI security, bug bounty, and CTF challenges.
 </p>
 
----
-
 ## 🛠️ Tools
 
 <div align="left">
