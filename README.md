@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Surya Ravi</h1>
+<h1 align="left">Hello, I'm Surya Ravi</h1>
 
 <p align="left">
 Security Researcher | CTF Player
@@ -8,7 +8,7 @@ Security Researcher | CTF Player
 I enjoy exploring application security, vulnerability research, AI security, bug bounty, and CTF challenges.
 </p>
 
-## 🛠️ Tools
+##  Tools
 
 <div align="left">
 
