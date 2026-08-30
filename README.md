@@ -17,11 +17,6 @@ I enjoy exploring application security, vulnerability research, AI security, bug
     alt="Linux, Docker, Bash, Python, Git, VS Code, and Postman"
   />
   <img
-    src="https://cdn.simpleicons.org/tines"
-    height="48"
-    alt="Tines"
-  />
-  <img
     src="https://cdn.simpleicons.org/burpsuite"
     height="48"
     alt="Burp Suite"
