@@ -11,7 +11,19 @@ I enjoy exploring application security, vulnerability research, AI security, bug
 ##  Tools
 
 <div align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,python,git,vscode,burpsuite" />
-
+  <img
+    src="https://skillicons.dev/icons?i=linux,docker,bash,python,git,vscode,postman"
+    height="48"
+    alt="Linux, Docker, Bash, Python, Git, VS Code, and Postman"
+  />
+  <img
+    src="https://cdn.simpleicons.org/tines"
+    height="48"
+    alt="Tines"
+  />
+  <img
+    src="https://cdn.simpleicons.org/burpsuite"
+    height="48"
+    alt="Burp Suite"
+  />
 </div>
