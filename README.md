@@ -6,6 +6,12 @@ Security Researcher | CTF Player
 
 <p align="left">
 I enjoy exploring application security, vulnerability research, AI security, bug bounty, and CTF challenges.
+
+import secrets 
+
+bruh = secrets.token_hex(10000000)
+
+print(bruh)
 </p>
 
 ##  Tools
